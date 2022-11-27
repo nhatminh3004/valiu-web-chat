@@ -24,13 +24,13 @@ function ForgotPassword() {
     const ref = useRef();
 
     const firebaseConfig = {
-        apiKey: "AIzaSyCmpMsn_WXhU7j-77JHJJGVThxupVdp6AA",
-        authDomain: "reactwithfirebase-e2c69.firebaseapp.com",
-        projectId: "reactwithfirebase-e2c69",
-        storageBucket: "reactwithfirebase-e2c69.appspot.com",
-        messagingSenderId: "296554604738",
-        appId: "1:296554604738:web:3b8b02cea0ee3c89ce335b",
-        measurementId: "G-MDX4QYYXBP",
+       apiKey: "AIzaSyA6OGWqOXDpuhlNafe9Eqszut34Vw6kQI8",
+  authDomain: "uploadimagestorage-785cf.firebaseapp.com",
+  projectId: "uploadimagestorage-785cf",
+  storageBucket: "uploadimagestorage-785cf.appspot.com",
+  messagingSenderId: "711078869994",
+  appId: "1:711078869994:web:193a102cbed43d865c1093",
+  measurementId: "G-RFD19BZRN8"
     };
       
     firebase.initializeApp(firebaseConfig);
